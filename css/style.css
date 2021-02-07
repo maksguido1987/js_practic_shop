@@ -1,5 +1,10 @@
 :root {
    --color-light: #f8f9fa;
+   --color-white: #fff;
+
+   --spacing-light: 10px;
+   --spacing-medium: 15px;
+   --spacing-large: 30px;
 }
 
 * {
